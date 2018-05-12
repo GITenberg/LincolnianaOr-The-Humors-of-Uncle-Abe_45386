@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43252'
     url: http://www.gutenberg.org/2009/agents/43252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45386#LincolnianaOr-The-Humors-of-Uncle-Abe
 gutenberg_issued: '2014-04-14'
 gutenberg_type: Text
 identifiers:
